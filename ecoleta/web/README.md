@@ -9,6 +9,8 @@
 
 ## Bonus features
 
-### :recycle: Custom success alert**
+### :recycle: Custom success alert
 
 <img src="../../.github/ecoleta/success-alert.png">
+
+:construction_worker: Feito por **Gabriel Oliveira** - **Contato:** <a href="https://www.linkedin.com/in/gabriel-jos%C3%A9-de-oliveira-633962197/">Linkedin</a>
