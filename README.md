@@ -1,8 +1,7 @@
-
-<img src="./.github/next-level-week.jpg">
-
 # Rocketseat Next Level Week :rocket:
 ### :space_invader: Projetos desenvolvidos durante a Next Level Week, realizada pela [Rocketseat](https://github.com/rocketseat)
+
+<img src="./.github/next-level-week.jpg">
 
 <img src="./.github/logo.svg">
 
