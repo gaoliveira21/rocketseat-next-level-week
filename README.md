@@ -4,6 +4,4 @@
 # Rocketseat Next Level Week :rocket:
 Projetos desenvolvidos durante a Next Level Week, realizada pela [Rocketseat](https://github.com/rocketseat)
 
-# 01 - Ecoleta
-
-<img src="./.github/logo.svg">
+<h1> 01 <img src="./.github/logo.svg"></h1>
