@@ -3,7 +3,7 @@
 
 <img src="./.github/next-level-week.jpg">
 
-<img src="./.github/logo.svg">
+<img src="./.github/ecoleta/logo.svg">
 
 ### Sobre o projeto
 
