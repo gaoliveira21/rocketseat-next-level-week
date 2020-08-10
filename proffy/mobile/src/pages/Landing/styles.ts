@@ -60,8 +60,8 @@ const styles = StyleSheet.create({
   totalConnections: {
     fontFamily: 'Poppins_400Regular',
     color: '#d4c2ff',
-    fontSize: 20,
-    maxWidth: 140,
+    fontSize: 12,
+    maxWidth: 200,
     marginTop: 40,
   }
 });
