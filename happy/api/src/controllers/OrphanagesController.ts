@@ -1,8 +1,9 @@
+import { Request, Response } from 'express';
 import { getRepository } from 'typeorm';
 import Orphanage from '../models/Orphanage';
 
 export default {
-  async create(request, response) {
+  async create(request: Request, response: Response) {
     const {
       name,
       latitude,
